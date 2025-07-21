@@ -1,5 +1,3 @@
-This repository contains a collection of Python scripts and projects that I am using to learn the Python programming language.
-
 ## 📖 About This Project
 
 This project serves as my personal playground and documentation hub for my journey into Python. Here, you'll find everything from basic "Hello, World!" scripts to more complex mini-projects. The main goal is to practice and apply Python concepts in a structured way.
